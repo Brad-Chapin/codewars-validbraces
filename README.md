@@ -1,2 +1,2 @@
 # codewars-validbraces
-codewars kata: valid braces
+[codewars kata: valid braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/train/javascript)
